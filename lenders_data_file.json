@@ -1,0 +1,388 @@
+{
+  "lastUpdated": "2025-01-20",
+  "version": "1.0",
+  "lenders": [
+    {
+      "name": "One Team(1st)",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 650,
+        "monthlyRevenue": 25000,
+        "deposits": 2,
+        "nsfs": 2,
+        "avgBalance": 1000,
+        "monthsBusiness": 12
+      },
+      "restrictedIndustries": [
+        "Law Firms",
+        "Pawn Shops",
+        "Finance/Investment/Banks",
+        "Non-Profit",
+        "Real Estate",
+        "Money Services Businesses",
+        "Marijuana/CBD",
+        "Trucking",
+        "Transportation",
+        "Bail-Bonds"
+      ]
+    },
+    {
+      "name": "PEAC Solutions(1st)",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 675,
+        "monthlyRevenue": 42000,
+        "deposits": 5,
+        "nsfs": 3,
+        "avgBalance": 4200,
+        "monthsBusiness": 36
+      },
+      "restrictedIndustries": [
+        "Auto Sales",
+        "Cleaning and Maintenance",
+        "Construction",
+        "Farming",
+        "Finance/Investment/Banks",
+        "Hotels & Lodging Memberships",
+        "Law Firms",
+        "Mining & Quarries",
+        "Non-Profit",
+        "Trucking",
+        "Transportation",
+        "Casino/ Gambling",
+        "Adult Entertainment"
+      ]
+    },
+    {
+      "name": "IDEA Financial",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 625,
+        "monthlyRevenue": 15000,
+        "deposits": 6,
+        "nsfs": 3,
+        "avgBalance": 4000,
+        "monthsBusiness": 24
+      },
+      "restrictedIndustries": [
+        "Farming",
+        "Auto Sales",
+        "Auto Rentals",
+        "Oil & Gas",
+        "Finance/Investment/Banks",
+        "Bail-Bonds",
+        "Finance",
+        "Property Management",
+        "Real Estate",
+        "Education",
+        "Marijuana/CBD",
+        "Multi-Level Marketing Sales",
+        "Brokers",
+        "Mining & Quarries",
+        "Government Services",
+        "Gold Dealers",
+        "Gun Sales",
+        "Trucking",
+        "Transportation",
+        "Truck Leasing"
+      ]
+    },
+    {
+      "name": "Kapitus(1st)",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 625,
+        "monthlyRevenue": 10000,
+        "deposits": 5,
+        "nsfs": 3,
+        "avgBalance": 600,
+        "monthsBusiness": 12
+      },
+      "restrictedIndustries": [
+        "Adult Entertainment",
+        "Auto Sales",
+        "Marijuana/CBD",
+        "Cell Phone Stores",
+        "Colleges/Universities",
+        "Credit Repair",
+        "Finance/Investment/Banks",
+        "Government Services",
+        "Insurance",
+        "Boat Sales",
+        "Non-Profit",
+        "Auto Rentals",
+        "Casino/ Gambling"
+      ]
+    },
+    {
+      "name": "OnDeck(1st)",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 625,
+        "monthlyRevenue": 15000,
+        "deposits": 5,
+        "nsfs": 3,
+        "avgBalance": 1000,
+        "monthsBusiness": 24
+      },
+      "restrictedIndustries": [
+        "Adult Entertainment",
+        "Art Dealer",
+        "Auto Sales",
+        "Bail-Bonds",
+        "Birth Tourism",
+        "Boat Sales",
+        "Brokers",
+        "Marijuana/CBD",
+        "Casino/ Gambling",
+        "Cell Phone Stores",
+        "Gold Dealers",
+        "Gun Sales",
+        "Horoscope/ Fortune Telling",
+        "Money Services Businesses",
+        "Multi-Level Marketing Sales",
+        "Non-Profit",
+        "Outdoor Power Equipment Stores",
+        "Pawn Shops",
+        "Private Households",
+        "Religious/Civic Organizations",
+        "RV Dealer"
+      ]
+    },
+    {
+      "name": "Headway Capital",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 600,
+        "monthlyRevenue": 5000,
+        "deposits": 1,
+        "nsfs": 3,
+        "avgBalance": 500,
+        "monthsBusiness": 6
+      },
+      "restrictedIndustries": [
+        "Adult Entertainment",
+        "Art Dealer",
+        "Auto Sales",
+        "Bail-Bonds",
+        "Birth Tourism",
+        "Boat Sales",
+        "Brokers",
+        "Marijuana/CBD",
+        "Casino/ Gambling",
+        "Cell Phone Stores",
+        "Gold Dealers",
+        "Gun Sales",
+        "Horoscope/ Fortune Telling",
+        "Money Services Businesses",
+        "Multi-Level Marketing Sales",
+        "Non-Profit",
+        "Outdoor Power Equipment Stores",
+        "Pawn Shops",
+        "Private Households",
+        "Religious/Civic Organizations",
+        "RV Dealer"
+      ]
+    },
+    {
+      "name": "Credibly",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 550,
+        "monthlyRevenue": 20000,
+        "deposits": 4,
+        "nsfs": 7,
+        "avgBalance": 1000,
+        "monthsBusiness": 6
+      },
+      "restrictedIndustries": [
+        "Auto Sales",
+        "Adult Entertainment",
+        "Bail-Bonds",
+        "Brokers",
+        "Casino/ Gambling",
+        "Credit Repair",
+        "Dating Services",
+        "Dickey's BBQ Franchises",
+        "Government Agencies",
+        "Gun Sales",
+        "Law Firms",
+        "Marijuana/CBD",
+        "Multi-Level Marketing Sales",
+        "Non-Profit",
+        "Oil & Gas",
+        "Religious/Civic Organizations",
+        "Vape Shop",
+        "Warrenty Services",
+        "Trucking",
+        "Transportation"
+      ]
+    },
+    {
+      "name": "Mulligan(1st)",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 625,
+        "monthlyRevenue": 25000,
+        "deposits": 4,
+        "nsfs": 3,
+        "avgBalance": 3000,
+        "monthsBusiness": 6
+      },
+      "restrictedIndustries": [
+        "Adult Entertainment",
+        "Art Dealer",
+        "Auto Sales",
+        "Bail-Bonds",
+        "Birth Tourism",
+        "Boat Sales",
+        "Brokers",
+        "Marijuana/CBD",
+        "Casino/ Gambling",
+        "Cell Phone Stores",
+        "Gold Dealers",
+        "Gun Sales",
+        "Horoscope/ Fortune Telling",
+        "Money Services Businesses",
+        "Multi-Level Marketing Sales",
+        "Non-Profit",
+        "Outdoor Power Equipment Stores",
+        "Pawn Shops",
+        "Private Households",
+        "Religious/Civic Organizations",
+        "RV Dealer",
+        "Finance/Investment/Banks",
+        "Food Trucks",
+        "Law Firms",
+        "Non-Profit",
+        "Real Estate",
+        "Trucking",
+        "Transportation",
+        "Vending",
+        "Vape Shop",
+        "Insurance",
+        "Restaurant"
+      ]
+    },
+    {
+      "name": "Rapid Finance(1st)",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 600,
+        "monthlyRevenue": 10000,
+        "deposits": 3,
+        "nsfs": 5,
+        "avgBalance": 1000,
+        "monthsBusiness": 24
+      },
+      "restrictedIndustries": [
+        "Adult Entertainment",
+        "Auto Sales",
+        "Bail-Bonds",
+        "Casino/ Gambling",
+        "Collections",
+        "Finance/Investment/Banks",
+        "Gun Sales",
+        "Influencers",
+        "Law Firms",
+        "Marijuana/CBD",
+        "Multi-Level Marketing Sales",
+        "Nightclub",
+        "Non-Profit",
+        "Real Estate",
+        "Religious/Civic Organizations",
+        "Trucking",
+        "Transportation",
+        "Vape Shop",
+        "Property Management"
+      ]
+    },
+    {
+      "name": "Expansion",
+      "active": true,
+      "contact": {
+        "email": "",
+        "phone": "",
+        "person": ""
+      },
+      "criteria": {
+        "personalCredit": 550,
+        "monthlyRevenue": 6000,
+        "deposits": 2,
+        "nsfs": 6,
+        "avgBalance": 550,
+        "monthsBusiness": 6
+      },
+      "restrictedIndustries": [
+        "Adult Entertainment",
+        "Auto Sales",
+        "Bail-Bonds",
+        "Boat Sales",
+        "Business Associations/Unions",
+        "Call Centers",
+        "Card Processors",
+        "Casino/ Gambling",
+        "Collections",
+        "Finance/Investment/Banks",
+        "Government Agencies",
+        "Law Firms",
+        "Lead Generators",
+        "Lease-to-own Businesses",
+        "Marijuana/CBD",
+        "Mining & Quarries",
+        "Multi-Level Marketing Sales",
+        "Non-Profit",
+        "Pawn Shops",
+        "PREC.METALS",
+        "Religious/Civic Organizations",
+        "Brokers",
+        "Travel Agencies"
+      ]
+    }
+  ]
+}
