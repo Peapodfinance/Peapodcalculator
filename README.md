@@ -3,7 +3,7 @@ A calculator
 A professional business lender matching calculator for Peapod Finance, partnered with Flexibility Capital.
 🌐 Live Site
 URL: https://peapodfinance.github.io/Peapodcalculator/
-Access Code: peapod2025
+Access Code: *request*
 📋 What It Does
 The Peapod Calculator helps businesses find suitable lenders based on their financial profile. Users input their business information and receive:
 
